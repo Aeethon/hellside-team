@@ -66,6 +66,12 @@
 [data-user-id*="365643222522920960"] {
 	--user-background: url('https://i.imgur.com/qQBk2cR.jpg');
 }
+
+ /*YUKKI*/
+  [user_by_bdfdb*="336684636744843265"],
+  [data-user-id*="336684636744843265"] {
+    --user-background: url('https://i.imgur.com/jmFjTWP.gif');
+  }
   
   /*HASH*/
   [user_by_bdfdb*="312481360239656961"],
