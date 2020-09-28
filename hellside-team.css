@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Oxygen&display=swap');
+@import url("https://aeethon.github.io/hellside-team/hellside-team.css");
 
   .reduce-motion .userPopout-3XzG_A {
     transform:translateZ(0);
@@ -96,6 +97,18 @@
    [data-user-id*="454994524364603404"] {
      --user-background: url('https://imgur.com/k39BYVW.gif');
    }
+
+     /*Tadeus*/
+     [user_by_bdfdb*="407568295764426782"],
+     [data-user-id*="407568295764426782"] {
+       --user-background: url('https://i.imgur.com/gazP75R.gif');
+     }
+
+     /*Toss*/
+     [user_by_bdfdb*="219246082398486529"],
+     [data-user-id*="219246082398486529"] {
+       --user-background: url('https://i.imgur.com/JOXsMlQ.gif');
+     }
 
 .theme-dark,
 :root {
