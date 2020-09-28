@@ -110,6 +110,13 @@
        --user-background: url('https://i.imgur.com/JOXsMlQ.gif');
      }
 
+    /*Tasty*/
+      [user_by_bdfdb*="196430565350703104"],
+      [data-user-id*="196430565350703104"] {
+        --user-background: url('https://i.imgur.com/p0BReF5.gif');
+         }
+
+         
 .theme-dark,
 :root {
     --font: 'Oxygen';
