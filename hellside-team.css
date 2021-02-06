@@ -73,6 +73,12 @@
   [data-user-id*="336684636744843265"] {
     --user-background: url('https://i.imgur.com/jmFjTWP.gif');
   }
+
+/*dontz*/
+  [user_by_bdfdb*="664329088412155929"],
+  [data-user-id*="664329088412155929"] {
+    --user-background: url('https://i.imgur.com/oGSQrzE.gif');
+  }
   
   /*HASH*/
   [user_by_bdfdb*="312481360239656961"],
